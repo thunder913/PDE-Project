@@ -1,0 +1,41 @@
+{
+  "ArrayOfPerson": {
+    "Person": [
+      {
+        "Name": "Ivan",
+        "Age": 29,
+        "Company": {
+          "Name": "EasyPay"
+        }
+      },
+      {
+        "Name": "Strahil",
+        "Age": 25,
+        "Company": {
+          "Name": "FastPay"
+        }
+      },
+      {
+        "Name": "Test",
+        "Age": 0,
+        "Company": {
+          "Name": "Gosho"
+        }
+      },
+      {
+        "Name": "Petur",
+        "Age": 12,
+        "Company": {
+          "Name": "Gosho In"
+        }
+      },
+      {
+        "Name": "Georgi",
+        "Age": 1,
+        "Company": {
+          "Name": "Gosho Inc"
+        }
+      }
+    ]
+  }
+}

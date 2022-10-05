@@ -1,0 +1,153 @@
+{
+  "Time": "2022-10-05T18:58:03.1144933+03:00",
+  "Cubes": [
+    {
+      "Currency": "USD",
+      "Rate": 0.9748
+    },
+    {
+      "Currency": "JPY",
+      "Rate": 141.01
+    },
+    {
+      "Currency": "BGN",
+      "Rate": 1.9558
+    },
+    {
+      "Currency": "CZK",
+      "Rate": 24.549
+    },
+    {
+      "Currency": "DKK",
+      "Rate": 7.4365
+    },
+    {
+      "Currency": "GBP",
+      "Rate": 0.88300
+    },
+    {
+      "Currency": "HUF",
+      "Rate": 422.18
+    },
+    {
+      "Currency": "PLN",
+      "Rate": 4.8483
+    },
+    {
+      "Currency": "RON",
+      "Rate": 4.9490
+    },
+    {
+      "Currency": "SEK",
+      "Rate": 10.8993
+    },
+    {
+      "Currency": "CHF",
+      "Rate": 0.9561
+    },
+    {
+      "Currency": "ISK",
+      "Rate": 140.90
+    },
+    {
+      "Currency": "NOK",
+      "Rate": 10.5838
+    },
+    {
+      "Currency": "HRK",
+      "Rate": 7.5240
+    },
+    {
+      "Currency": "TRY",
+      "Rate": 18.0841
+    },
+    {
+      "Currency": "AUD",
+      "Rate": 1.5076
+    },
+    {
+      "Currency": "BRL",
+      "Rate": 5.2584
+    },
+    {
+      "Currency": "CAD",
+      "Rate": 1.3401
+    },
+    {
+      "Currency": "CNY",
+      "Rate": 6.9368
+    },
+    {
+      "Currency": "HKD",
+      "Rate": 7.6521
+    },
+    {
+      "Currency": "IDR",
+      "Rate": 14863.26
+    },
+    {
+      "Currency": "ILS",
+      "Rate": 3.4759
+    },
+    {
+      "Currency": "INR",
+      "Rate": 79.4250
+    },
+    {
+      "Currency": "KRW",
+      "Rate": 1400.69
+    },
+    {
+      "Currency": "MXN",
+      "Rate": 19.6393
+    },
+    {
+      "Currency": "MYR",
+      "Rate": 4.5201
+    },
+    {
+      "Currency": "NZD",
+      "Rate": 1.7177
+    },
+    {
+      "Currency": "PHP",
+      "Rate": 57.276
+    },
+    {
+      "Currency": "SGD",
+      "Rate": 1.2
+    },
+    {
+      "Currency": "THB",
+      "Rate": 36.823
+    },
+    {
+      "Currency": "ZAR",
+      "Rate": 17.5353
+    },
+    {
+      "Currency": "UAR",
+      "Rate": 3
+    },
+    {
+      "Currency": "test",
+      "Rate": 2
+    },
+    {
+      "Currency": "UAR",
+      "Rate": 2
+    },
+    {
+      "Currency": "LXC",
+      "Rate": 5
+    },
+    {
+      "Currency": "XAX",
+      "Rate": 2.135123
+    },
+    {
+      "Currency": "OPP",
+      "Rate": 2
+    }
+  ]
+}

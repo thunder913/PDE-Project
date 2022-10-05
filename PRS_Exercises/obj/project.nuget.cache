@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RAUY709S5Dwux/1peW/Rzlz/UhZmGEiIlZTM7knCEIKEXBuPofV92F3IoGVRzBRaJni8wPcrdTOWGclM80DuFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andon\\source\\repos\\PRS_Exercises\\PRS_Exercises\\PRS_Exercises.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andon\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\andon\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\andon\\.nuget\\packages\\system.text.json\\6.0.6\\system.text.json.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

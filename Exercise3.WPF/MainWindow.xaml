@@ -1,0 +1,22 @@
+﻿<Window x:Class="Exercise3.WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Exercise3.WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="800">
+    <Grid Margin="0,0,0,-6">
+        <DataGrid Name="KeyValuePairsGrid" ColumnWidth="*" Margin="632,42,0,14" IsReadOnly="True" MouseDoubleClick="DataGridMouseDoubleClickEvent"/>
+        <Button Content="Load Data" HorizontalAlignment="Left" Margin="633,10,0,0" VerticalAlignment="Top" Height="27" Width="167" Click="OnLoadDataButtonClick"/>
+        <Label Content="Id" HorizontalAlignment="Left" Margin="272,16,0,0" VerticalAlignment="Top"/>
+        <Label Content="Value" HorizontalAlignment="Left" Margin="356,15,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="Id_TextBox" HorizontalAlignment="Left" Margin="297,21,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="54"/>
+        <TextBox x:Name="Value_TextBox" HorizontalAlignment="Left" Margin="400,19,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="54"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="274,42,0,0" VerticalAlignment="Top" Click="AddButtonClickEvent" Width="44"/>
+        <Button Content="Edit" HorizontalAlignment="Left" Margin="338,42,0,0" VerticalAlignment="Top" Click="EditButtonClickEvent" Width="54"/>
+        <Button Content="Delete" HorizontalAlignment="Left" Margin="414,42,0,0" VerticalAlignment="Top" Click="DeleteButtonClickEvent" Width="54"/>
+        <Label Content="Reponse:" HorizontalAlignment="Left" Margin="272,79,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="ResponseBox" Text="{Binding Path=Response}"  IsReadOnly="True" HorizontalAlignment="Left" Margin="274,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="194" Height="70"/>
+    </Grid>
+</Window>

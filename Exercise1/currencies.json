@@ -1,0 +1,129 @@
+﻿{
+  "time": "2022-09-30",
+  "cubes": [
+    {
+      "currency": "USD",
+      "rate": "0.9748"
+    },
+    {
+      "currency": "JPY",
+      "rate": "141.01"
+    },
+    {
+      "currency": "BGN",
+      "rate": "1.9558"
+    },
+    {
+      "currency": "CZK",
+      "rate": "24.549"
+    },
+    {
+      "currency": "DKK",
+      "rate": "7.4365"
+    },
+    {
+      "currency": "GBP",
+      "rate": "0.88300"
+    },
+    {
+      "currency": "HUF",
+      "rate": "422.18"
+    },
+    {
+      "currency": "PLN",
+      "rate": "4.8483"
+    },
+    {
+      "currency": "RON",
+      "rate": "4.9490"
+    },
+    {
+      "currency": "SEK",
+      "rate": "10.8993"
+    },
+    {
+      "currency": "CHF",
+      "rate": "0.9561"
+    },
+    {
+      "currency": "ISK",
+      "rate": "140.90"
+    },
+    {
+      "currency": "NOK",
+      "rate": "10.5838"
+    },
+    {
+      "currency": "HRK",
+      "rate": "7.5240"
+    },
+    {
+      "currency": "TRY",
+      "rate": "18.0841"
+    },
+    {
+      "currency": "AUD",
+      "rate": "1.5076"
+    },
+    {
+      "currency": "BRL",
+      "rate": "5.2584"
+    },
+    {
+      "currency": "CAD",
+      "rate": "1.3401"
+    },
+    {
+      "currency": "CNY",
+      "rate": "6.9368"
+    },
+    {
+      "currency": "HKD",
+      "rate": "7.6521"
+    },
+    {
+      "currency": "IDR",
+      "rate": "14863.26"
+    },
+    {
+      "currency": "ILS",
+      "rate": "3.4759"
+    },
+    {
+      "currency": "INR",
+      "rate": "79.4250"
+    },
+    {
+      "currency": "KRW",
+      "rate": "1400.69"
+    },
+    {
+      "currency": "MXN",
+      "rate": "19.6393"
+    },
+    {
+      "currency": "MYR",
+      "rate": "4.5201"
+    },
+    {
+      "currency": "NZD",
+      "rate": "1.7177"
+    },
+    {
+      "currency": "PHP",
+      "rate": "57.276"
+    },
+    {
+      "currency": "SGD",
+      "rate": "1.4001"
+    },
+    {
+      "currency": "THB",
+      "rate": "36.823"
+    },
+    {
+      "currency": "ZAR",
+      "rate": "17.5353"
+    }
+  ]
+}
